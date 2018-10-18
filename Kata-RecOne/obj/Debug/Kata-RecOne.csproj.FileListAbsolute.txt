@@ -1,0 +1,7 @@
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\bin\Debug\Kata-RecOne.exe.config
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\bin\Debug\Kata-RecOne.exe
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\bin\Debug\Kata-RecOne.pdb
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\obj\Debug\Kata-RecOne.csprojAssemblyReference.cache
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\obj\Debug\Kata-RecOne.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\obj\Debug\Kata-RecOne.exe
+C:\Users\Yasin\codeBox\c#\Kata-RecOne\Kata-RecOne\obj\Debug\Kata-RecOne.pdb
